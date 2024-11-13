@@ -1,2 +1,2 @@
 print("happy")
-print("birthdayaa")
+print("birthday")
